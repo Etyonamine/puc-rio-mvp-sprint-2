@@ -5,8 +5,11 @@ Trabalho de MVP do 2º sprint - Gestão Ágil de Projetos e Produtos
 A descrição de cada documento:
 
 1)MVP Canvas - projeto criado no template - arquivo canvas-url.txt - contém o link do projeto criado.
+
 2)backlog do produto em PDF.
+
 3)Video - apresentação do trabalho
+
 4)README.md = Apresentação de informações no GIT.
 
 ## execução
