@@ -13,10 +13,14 @@ A descrição de cada documento:
 
 4)wireframe - Encontra-se na pasta wiframes na raiz do repositorio.
 Foram construido 03 wiframes e 01 AltaFidelidade, conforme descrito abaixo:
- 4.1)Wireframe_acessar_tela_cadastro_usuario
- 4.2)Wireframe_tela_cadastro_motorista
- 4.3)Wireframe_localizar_um_estabelecimento
- 4.4)AltaFidelidade_localizar_um_estabelecimento
+
+  4.1)Wireframe_acessar_tela_cadastro_usuario
+
+  4.2)Wireframe_tela_cadastro_motorista
+
+  4.3)Wireframe_localizar_um_estabelecimento
+  
+  4.4)AltaFidelidade_localizar_um_estabelecimento
 
 5)Video - Encontra-se na pasta raiz do repositório e chama-se apresentacao.mp4
 
