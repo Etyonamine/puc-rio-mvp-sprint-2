@@ -12,15 +12,21 @@ A descrição de cada documento:
 3)backlog da sprint em PDF - arquivo chamado sprint-backlog.pdf encontra-se na raiz do repositório
 
 4)wireframe - Encontra-se na pasta wiframes na raiz do repositorio.
-Foram construido 03 wiframes e 01 AltaFidelidade, conforme descrito abaixo:
+Foram construido 06 wiframes e 01 AltaFidelidade, conforme descrito abaixo:
 
-  4.1)Wireframe_acessar_tela_cadastro_usuario
+  4.1)Wireframe_Acesso_Tela_Cadastro_Motorista
 
-  4.2)Wireframe_tela_cadastro_motorista
+  4.2)Wireframe_Acesso_Tela_Cadastro_Estabelecimento
 
-  4.3)Wireframe_localizar_um_estabelecimento
+  4.3)Wireframe_Cadastro_Motorista
+
+  4.4)Wireframe_Acesso_Cadastro_Estabelecimento
+
+  4.5)Wireframe_Primeiro_Acesso_Alterar_Senha
+
+  4.6)Wireframe_localizar_um_estabelecimento
   
-  4.4)AltaFidelidade_localizar_um_estabelecimento
+  4.7)AltaFidelidade_localizar_um_estabelecimento
 
 5)Video - Encontra-se na pasta raiz do repositório e chama-se apresentacao.mp4
 
