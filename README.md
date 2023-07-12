@@ -28,6 +28,6 @@ Foram construido 06 wiframes e 01 AltaFidelidade, conforme descrito abaixo:
   
   4.7)AltaFidelidade_localizar_um_estabelecimento
 
-5)Video - Encontra-se na pasta raiz do repositório e chama-se apresentacao.mp4
+5)Video - Encontra-se na pasta raiz do repositório e chama-se "video_apresentacao_mvp.mp4"
 
 6)README.md = Apresentação de informações no GIT.
